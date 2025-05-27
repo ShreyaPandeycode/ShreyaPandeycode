@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Shreya Pandey!
+# 👋 Hi, I'm Shreya Pandey! 
+web developer from India , learn by build
 
 ## 🚀 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shreya-pandey-761779283/)
