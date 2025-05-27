@@ -39,11 +39,15 @@ web developer from India , learn by build
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 
-## 📛 My GSSoC Contributor Badge
+## 🎖️ My GSSoC Contributor Badge
 
-![Shreya Pandey - GSSoC ID](https://github.com/ShreyaPandeycode/ShreyaPandeycode/blob/main/GSSOC%20contributer%20badge.png?raw=true)
+<img src="https://github.com/ShreyaPandeycode/ShreyaPandeycode/blob/main/GSSOC%20contributer%20badge.png?raw=true" width="400"/>
 
- 
+
+ ## 🧠 Brain Quest Winner – TechFest 2K24
+
+<img src="https://github.com/ShreyaPandeycode/ShreyaPandeycode/blob/main/shreya%20brainquest.jpg?raw=true" width="300"/>
+
 </div>
 
 <!---
